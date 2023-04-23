@@ -1,0 +1,6 @@
+new entry "DifficultyBonus"
+type "PassiveData"
+data "DisplayName" "Difficulty Level"
+data "Description" "Difficulty Level Bonus"
+data "Icon" "Spell_Necromancy_FeignDead"
+data "Boosts" "AC(2);RollBonus(Attack,2);RollBonus(RawAbility,2);RollBonus(SkillCheck,2);RollBonus(SavingThrow,2)"
