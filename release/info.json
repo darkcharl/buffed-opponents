@@ -1,10 +1,10 @@
 {
   "mods": [
     {
-      "modName": "IncreasedDifficulty",
+      "modName": "Buffed Opponents",
       "UUID": "2d4497c8-f0b5-4bcc-b106-7350c45b723f",
-      "folderName": "IncreasedDifficulty",
-      "Description": "IncreasedDifficulty Class",
+      "folderName": "BuffedOpponents",
+      "Description": "Buffed Opponents",
       "version": "1",
       "MD5": "",
       "Group": ""

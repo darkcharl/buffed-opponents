@@ -1,12 +1,8 @@
-# Increased Difficulty for Baldur's Gate 3
+# Buffed Opponents for Baldur's Gate 3
 
-This mod increases the difficulty of Baldur's Gate 3 in a fashion similar to many other games such as Solasta, without alterations to the underlying game system.
+This mod increases the difficulty of Baldur's Gate 3 in a fashion similar to many other games such as Solasta, without significant alterations to the underlying game system.
 
 Please read on for the list of changes implemented.
-
-## Difficulty Classes
-
-- Target DCs have a **flat +2 bonus**.
 
 ## NPC Changes
 
